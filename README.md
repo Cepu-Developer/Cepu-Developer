@@ -18,9 +18,15 @@ https://cek-udara.my.id/
 **Clone Repository**
 
 Untuk menjalankan aplikasi ini secara lokal, silakan clone repository ini dengan menjalankan perintah berikut:
-
+1. Menjalankan Backend
 ```bash
-git clone https://github.com/dindarosalin/personal-notes.git
+git clone https://github.com/Cepu-Developer/udarakita-BE.git
+npm install
+nodemon app
+```
+2. Menjalankan Frontend
+```bash
+git clone https://github.com/Cepu-Developer/Frontend.git
 npm install
 npm run dev
 ```
@@ -33,6 +39,10 @@ npm run dev
 5. Fitur Forum Diskusi
 6. Fitur Layanan Kesehatan
 7. Tentang Kami
+
+### API
+1. https://api.cek-udara.my.id/users
+2. https://api.airvisual.com/v2
   
 ### Family Members :
 1. (F251YB150) – (Aria Putra Pratama) 
