@@ -40,10 +40,15 @@ npm run dev
 6. Fitur Layanan Kesehatan
 7. Tentang Kami
 
-### API
-1. https://api.cek-udara.my.id/users
-2. https://api.airvisual.com/v2
-  
+### Library & API 
+1. React JS : https://legacy.reactjs.org/ 
+2. Vite JS : https://vitejs.dev/ 
+3. Bootstrap : https://getbootstrap.com/
+4. MySQL : https://dev.mysql.com/ 
+5. Express JS : https://expressjs.com/
+6. API Daftar Masuk : https://api.m-ariansyah.my.id/ 
+7. API Fitur Cek Udara : https://api.airvisual.com/v2
+
 ### Family Members :
 1. (F251YB150) – (Aria Putra Pratama) 
 2. (F251YB215) – (Muhammad Ariansyah) 
