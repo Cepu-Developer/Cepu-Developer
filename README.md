@@ -12,7 +12,7 @@
 Udarakita. merupakan platform khusus yang tidak hanya meningkatkan kesadaran masyarakat akan bahaya polusi udara, tetapi juga menyediakan ruang untuk berbagi informasi terkini melalui forum diskusi, sambil terhubung dengan layanan kesehatan premium secara komprehensif. 
 
 ### Buka Aplikasi
-https://cek-udara.my.id/
+https://cek-udara.m-ariansyah.my.id/ 
 
 ### Langkah-langkah
 **Clone Repository**
