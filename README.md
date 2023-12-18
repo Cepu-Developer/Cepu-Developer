@@ -22,8 +22,13 @@ Untuk menjalankan aplikasi ini secara lokal, silakan clone repository ini dengan
 ```bash
 git clone https://github.com/Cepu-Developer/udarakita-BE.git
 npm install
-nodemon app
+nodemone app
+
+catatan :
+- patikan memilki mysql 
+- buat database dg nama user_db
 ```
+
 2. Menjalankan Frontend
 ```bash
 git clone https://github.com/Cepu-Developer/Frontend.git
